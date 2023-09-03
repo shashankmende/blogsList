@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.list-item {
+  list-style-type: none;
+}
+.heading-date-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
